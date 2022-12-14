@@ -27,12 +27,12 @@ global.myweb = 'https://youtube.com/playlist?list=PLfnx8zXCmgN0FtxAZDhJMo-cHJozu
 global.linkgrupss = "   https://chat.whatsapp.com/L7Gdc0JTfpCHGSB5umyUxl"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
-global.email = 'freegodsteam@gmail.com'
+global.email = 'KhaTheHard@gmail.com'
 global.ntidel = ['120363043965529911@g.us']
 global.wlcm = []
 global.wlcmm = []
 global.ntnsfw = []
-global.region = 'Indonesia'
+global.region = 'Isekai'
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
 global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
@@ -40,17 +40,17 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = ' NOPANN!' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '[⫹⫺ - ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = ' KhaTheDarkness' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '[⫹⫺ - Aisyah-Md - ⫹⫺]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'KhaTheDarkness' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62882110909971']
-global.premium = ['62882110909971']
-global.packname = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ϟ'
-global.ownerr = ['ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️']
+global.owner = ['62882006212045']
+global.premium = ['62882006212045']
+global.packname = 'KhaTheDarkness'
+global.ownerr = ['KhaTheDarkness']
 global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
-global.sessionName = './sessionye/paktzy'
+global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -63,7 +63,7 @@ wait: '⏳ _*Loading...*_',
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 50
 }
    global.rpg = {
    darahawal: 100,
